@@ -1,6 +1,6 @@
-## Olá, Mundo. Meu nome é Felippe Marques.
+## Olá, Mundo. 
 
-<div align="justify">💻 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no Instituto Federal de São Paulo (IFSP). Tenho interesse em desenvolvimento de software e gosto de usar a tecnologia para resolver problemas e criar soluções inovadoras. No meu tempo livre, gosto de assistir séries, ler livros de ficção científica e geopolítica. Estou sempre procurando por novas oportunidades de aprendizado.</div>
+<div align="justify">💻 Meu nome é Felippe Marques, sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no Instituto Federal de São Paulo (IFSP). Tenho interesse em desenvolvimento de software e gosto de usar a tecnologia para resolver problemas e criar soluções inovadoras. No meu tempo livre, gosto de assistir séries, ler livros de ficção científica e geopolítica. Estou sempre procurando por novas oportunidades de aprendizado.</div>
 
 <hr>
 
