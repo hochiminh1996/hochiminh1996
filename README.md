@@ -12,10 +12,14 @@
 - 📫 Contato: ambrsp@hotmail.com  
 
 <hr>
-<div align="left" style="border:1px solid #e9e9e9">
+
+<div align="left" style="border:1px solid">
   <a href="https://github.com/hochiminh1996">
   <img height="180em" width="" src="https://github-readme-stats.vercel.app/api?username=hochiminh1996&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hochiminh1996&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+  
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Ho-chi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,7 +27,6 @@
   <img align="center" alt="Ho-chi-java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center" alt="Ho-chi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ho-chi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
  
 </div>  
 
