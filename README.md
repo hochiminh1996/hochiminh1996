@@ -2,7 +2,7 @@
 
 <div align="justify">💻 Meu nome é Felippe Marques, sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no Instituto Federal de São Paulo (IFSP). Tenho interesse em desenvolvimento de software e gosto de usar a tecnologia para resolver problemas e criar soluções inovadoras. No meu tempo livre, gosto de assistir séries, ler livros de ficção científica e geopolítica. Estou sempre procurando por novas oportunidades de aprendizado.</div>
 <div align="center">  
-  <img src="https://github.com/hochiminh1996/Introduction-to-javascript/blob/master/dev_gif.gif" width="455px">  
+  <img src="https://github.com/hochiminh1996/Introduction-to-javascript/blob/master/dev_gif.gif" title="Hello, world" width="455px">  
 </div>  
 
 
