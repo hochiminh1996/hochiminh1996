@@ -18,6 +18,7 @@
   <img height="180em" width="" src="https://github-readme-stats.vercel.app/api?username=hochiminh1996&show_icons=true&theme=dark&include_all_commits=true&count_private=true" title="Statics" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hochiminh1996&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
 <hr>  
 <div style="display: inline_block" align="center">
   <img align="center" alt="Ho-chi-Js" height="30" title="Javascript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
