@@ -8,7 +8,7 @@
 
 <br>
 
-- 🌱 **Estudando C++, Java, Javascript, Estrutura de Dados, HTML5, CSS3, Bancos de Dados Relacionais e não relacionais (NOSQL)**
+- 🌱 **Estudando C++, C, Java, Javascript, Estrutura de Dados, HTML5, CSS3, Bancos de Dados Relacionais e não relacionais (NOSQL)**
 - 📫 Contato: ambrsp@hotmail.com  
 
 <hr>
