@@ -10,6 +10,7 @@
 
 - 🌱 **Estudando C++, C, Java, Javascript, Estrutura de Dados, HTML5, CSS3, Bancos de Dados Relacionais e não relacionais (NOSQL)**
 - 📫 Contato: ambrsp@hotmail.com  
+- <a href="https://br.linkedin.com/in/felippe-marques-5708b4124"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <hr>
 
