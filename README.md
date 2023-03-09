@@ -5,7 +5,6 @@
   <img src="https://github.com/hochiminh1996/Introduction-to-javascript/blob/master/dev_gif.gif" title="Hello, world" width="455px">  
 </div>  
 
-
 <br>
 
 - 🌱 **Estudando C++, C, Java, Javascript, Estrutura de Dados, HTML5, CSS3, Bancos de Dados Relacionais e não relacionais (NOSQL)**
