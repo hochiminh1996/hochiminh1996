@@ -23,7 +23,7 @@
   
 <hr>  
 <div style="display: inline_block" align="center">
-  <img align="center" alt="Ho-chi-Js" height="30" title="Javascript" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ho-chi-Js" height="50" width="70" title="Javascript"  src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667">
   <img align="center"  title="Python"  alt="Ho-chi-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center"  title="Java"  alt="Ho-chi-java" height="50" width="60" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center"  title="HTML5" alt="Ho-chi-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
