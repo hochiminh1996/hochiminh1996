@@ -25,11 +25,11 @@
 <div style="display: inline_block" align="center">
   <img align="center" alt="Ho-chi-Js" height="30" title="Javascript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  title="Python"  alt="Ho-chi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center"  title="JAVA"  alt="Ho-chi-java" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+  <img align="center"  title="Java"  alt="Ho-chi-java" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center"  title="HTML5" alt="Ho-chi-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  title="CSS3" alt="Ho-chi-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"  title="GIT" alt="Ho-chi-CSS" height="40" width="50" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667">
-  <img align="center"  title="LINUX" alt="Ho-chi-CSS" height="40" width="50" src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667">
+  <img align="center"  title="Git" alt="Ho-chi-CSS" height="40" width="50" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667">
+  <img align="center"  title="Linux" alt="Ho-chi-CSS" height="40" width="50" src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667">
  
  
 </div>    
