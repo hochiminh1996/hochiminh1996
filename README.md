@@ -31,6 +31,8 @@
   <img align="center"  title="CSS3" alt="CSS3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"  title="Git" alt="Git" height="50" width="50" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4">
   <img align="center"  title="Linux" alt="Linux" height="50" width="60" src="https://cdn-icons-png.flaticon.com/512/226/226772.png">
+  <img align="center"  title="Github" alt="Github" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+
    
  
 </div>    
