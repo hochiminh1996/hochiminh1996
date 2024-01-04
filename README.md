@@ -23,14 +23,14 @@
   
 <hr>  
 <div style="display: inline_block" align="center">
-  <img align="center" alt="Ho-chi-Js" height="50" width="60" title="Javascript"  src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667">
+  <img align="center" alt="Javascript" height="60" width="60" title="Javascript"  src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png">
   <img align="center"  title="Python"  alt="Ho-chi-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center"  title="Java"  alt="Ho-chi-java" height="50" width="60" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center"  title="PHP" alt="Ho-chi-CSS" height="50" width="52" src="https://play-lh.googleusercontent.com/cyTI43JCjc4L-e1m7FvJhI1VhmTSJ4AMNZoqhkp0Xm6_NOtHbaewp9UPVLw5R3-tZIU">
   <img align="center"  title="HTML5" alt="Ho-chi-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center"  title="CSS3" alt="Ho-chi-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"  title="Git" alt="Ho-chi-CSS" height="50" width="60" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667">
-  <img align="center"  title="Linux" alt="Ho-chi-CSS" height="50" width="60" src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667">
+  <img align="center"  title="CSS3" alt="CSS3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center"  title="Git" alt="Git" height="50" width="50" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4">
+  <img align="center"  title="Linux" alt="Linux" height="50" width="60" src="https://cdn-icons-png.flaticon.com/512/226/226772.png">
    
  
 </div>    
