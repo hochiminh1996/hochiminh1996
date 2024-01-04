@@ -32,6 +32,8 @@
   <img align="center"  title="Git" alt="Git" height="50" width="50" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4">
   <img align="center"  title="Linux" alt="Linux" height="50" width="60" src="https://cdn-icons-png.flaticon.com/512/226/226772.png">
   <img align="center"  title="Github" alt="Github" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+  <img align="center"  title="Mysql" alt="Mysql" height="50" width="90" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png">
+
 
    
  
